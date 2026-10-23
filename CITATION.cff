@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se usar este software, cite-o como abaixo e cite também o dataset I-CARE."
+title: "NeuroICU-qEEG"
+authors:
+  - family-names: "Viana Alves"
+    given-names: "Arianne"
+version: 0.1.0
+license: MIT
+references:
+  - type: data
+    title: "I-CARE: International Cardiac Arrest REsearch consortium Database"
+    authors:
+      - family-names: Amorim
+        given-names: Edilberto
+      - name: "et al."
+    year: 2023
+    publisher:
+      name: PhysioNet
+    doi: 10.13026/avek-0p97
+    license: CC-BY-NC-SA-4.0
