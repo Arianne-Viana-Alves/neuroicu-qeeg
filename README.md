@@ -1,4 +1,5 @@
 # NeuroICU-qEEG
+[![CI](https://github.com/Arianne-Viana-Alves/neuroicu-qeeg/actions/workflows/ci.yml/badge.svg)](https://github.com/Arianne-Viana-Alves/neuroicu-qeeg/actions/workflows/ci.yml)
 
 Monitor de EEG quantitativo e prognóstico neurológico para pacientes comatosos na UTI.
 
